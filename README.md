@@ -31,7 +31,7 @@ Works with MacOS, Windows, any mp4 video
 
 ### Sources for pre installed videos
 
-- [1oneam - vogue (Official Music Video).mp4](https://www.youtube.com/watch?v=UzOQYMdr7Zk&list=RDUzOQYMdr7Zk&start_radio=1)
-- [onlymyrailgun.mp4](https://www.youtube.com/watch?v=NOt2qxWtBv0)
-- [【東方】Bad Apple!! ＰＶ【影絵】.mp4](https://www.youtube.com/watch?v=FtutLA63Cp8)
+- [1oneam - vogue (Official Music Video)](https://www.youtube.com/watch?v=UzOQYMdr7Zk&list=RDUzOQYMdr7Zk&start_radio=1)
+- [onlymyrailgun](https://www.youtube.com/watch?v=NOt2qxWtBv0)
+- [【東方】Bad Apple!! ＰＶ【影絵】](https://www.youtube.com/watch?v=FtutLA63Cp8)
 
