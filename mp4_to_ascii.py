@@ -109,13 +109,13 @@ while True:
     a = len(vids) > 1
     play_again = questionary.select(
         "Which option?",
-        choices = ["Repeat playback", "Choose new song", "Exit"] if a else ["Repeat playback", "Exit"]
+        choices = ["Repeat playback", "Choose new video", "Exit"] if a else ["Repeat playback", "Exit"]
     ).ask()
     if play_again == "Exit":
         break
     elif play_again == "Repeat playback":
         repeat = True
-    elif play_again == "Choose new song":
+    elif play_again == "Choose new video":
         repeat = False
 
 print("Playback stopped.")
