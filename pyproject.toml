@@ -12,3 +12,6 @@ dependencies = [
 
 [project.scripts]
 mp4-to-ascii = "mp4_to_ascii:main"
+
+[tool.setuptools]
+py-modules = ["mp4_to_ascii", "audio_player"]

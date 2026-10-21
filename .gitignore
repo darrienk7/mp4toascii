@@ -34,9 +34,8 @@ desktop.ini
 .env
 .env.*
 
-# User video files
-Source Videos/*
-!Source Videos/.gitkeep
+#tests
+tests/
 
 # Temporary files
 *.log
